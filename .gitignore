@@ -1,0 +1,4 @@
+./ambvir/
+./mongoaltas
+./resources/__pycache__/
+./resources/mongo.py
